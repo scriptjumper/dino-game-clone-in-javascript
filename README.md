@@ -1,4 +1,5 @@
-# dino-game-clone-in-javascript
+# Dino Game
+#### look alike built is pure javascript
 
 This game build in javascript is a copy of the dino game google chrome gives us when we have no internet connection or we are offline.
 
